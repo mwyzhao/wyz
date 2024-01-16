@@ -1,0 +1,4 @@
+baseURL = 'http://wyz.aorlnn.xyz/'
+languageCode = 'en-us'
+title = 'wyz'
+theme = 'ananke'
